@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angelo Bracero
+- 👋 Hi, I’m Angelo Bracero
 - 👀 I’m interested in 
 - 🌱 I’m currently learning NextJS
 
