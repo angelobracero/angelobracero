@@ -1,10 +1,8 @@
 # Hello, I'm Angelo L. Bracero 👋
 
 - 💻 I’m currently working on my Portfolio
-- 🌱 I’m learning NextJS and Typescript
-- 🚀 I’m looking to collaborate on open-source projects
-- 📄 My resume is available [link to resume]
-- 📫 How to reach me: [your contact info]
+- 🌱 I’m currently learning NextJS and Typescript
+- 📄 My resume is available [link to resume](https://drive.google.com/file/d/1N2jSrJFhYGT2OUHCzn9ZmEuxwEb4l2A2/view?usp=drive_link)
 
 ### 🌟 My Top Projects
 
