@@ -13,8 +13,7 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 - [AlikaBook](https://github.com/angelobracero/Alikabook):  
   A modern e-commerce platform designed for book enthusiasts. Features include:  
   - 🛒 Seamless browsing, searching, and purchasing experience.  
-  - 🎨 Clean, intuitive user interface.  
-  - 🔒 Secure payment system.  
+  - 🎨 Clean, intuitive user interface. 
   This project demonstrates proficiency in building scalable and visually appealing web applications.
 
 - [SerBeast](https://github.com/angelobracero/SerBeast):  
