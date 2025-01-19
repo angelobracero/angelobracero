@@ -47,6 +47,6 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 ---
 
 ### 💼 Connect with Me
-- ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)
+- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/angelobracero22)
 - [LinkedIn](https://www.linkedin.com/in/angelobracero/)
 - [Portfolio](https://portfolio-angelobracero.vercel.app/)
