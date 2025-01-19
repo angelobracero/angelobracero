@@ -20,7 +20,6 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 - [SerBeast](https://github.com/angelobracero/SerBeast):  
   A dynamic platform connecting users with trusted professionals. Features include:  
   - 🛠️ Comprehensive service listings (plumbing, electrical work, cleaning, etc.).  
-  - 🌟 Rating and review system to ensure quality and trust.  
   - ⚡ User-friendly interface for seamless transactions.  
   SerBeast empowers both users and service providers through an intuitive, efficient platform.
 
@@ -48,6 +47,6 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 ---
 
 ### 💼 Connect with Me
-- [Facebook](https://www.facebook.com/angelobracero22)
+- ![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white)
 - [LinkedIn](https://www.linkedin.com/in/angelobracero/)
 - [Portfolio](https://portfolio-angelobracero.vercel.app/)
