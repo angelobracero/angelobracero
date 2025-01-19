@@ -26,7 +26,7 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 ---
 
 ### 🚀 Technologies & Tools
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
