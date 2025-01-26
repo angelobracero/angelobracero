@@ -4,7 +4,7 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 
 - 💻 I’m currently working on **my Portfolio**.
 - 🌱 I’m currently learning **NextJS and TypeScript**.
-- 📄 My resume is available [here](https://drive.google.com/file/d/1N2jSrJFhYGT2OUHCzn9ZmEuxwEb4l2A2/view?usp=drive_link).
+- 📄 My resume is available [here](https://drive.google.com/file/d/1KIxilujQmrA7lbYsbx2E80yWVp0aLDMU/view?usp=sharing).
 
 ---
 
