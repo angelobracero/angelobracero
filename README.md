@@ -16,7 +16,7 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
   - 🎨 Clean, intuitive user interface. 
   This project demonstrates proficiency in building scalable and visually appealing web applications.
 
-- [SerBeast](https://github.com/angelobracero/SerBeast):  
+- [SerBeast](https://github.com/angelobracero/SerbeastApp):  
   A dynamic platform connecting users with trusted professionals. Features include:  
   - 🛠️ Comprehensive service listings (plumbing, electrical work, cleaning, etc.).  
   - ⚡ User-friendly interface for seamless transactions.  
