@@ -1,9 +1,9 @@
 # Hello, I'm Angelo L. Bracero 👋
 
-I’m a passionate full-stack developer with a keen interest in building user-friendly, scalable web applications. I’m currently working on my personal portfolio and expanding my knowledge of Next.js and TypeScript.
+I’m a passionate full-stack developer with a keen interest in building user-friendly, scalable web applications. I’m currently working on my personal portfolio and expanding my knowledge on Dart and Flutter.
 
 - 💻 I’m currently working on **my Portfolio**.
-- 🌱 I’m currently learning **NextJS and TypeScript**.
+- 🌱 I’m currently learning **Dart and Flutter**.
 - 📄 My resume is available [here](https://drive.google.com/file/d/1KIxilujQmrA7lbYsbx2E80yWVp0aLDMU/view?usp=sharing).
 
 ---
@@ -30,18 +30,11 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)](https://react.dev/learn)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-9.0)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/index.php#2025-01-17-1)
 [![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server/sql-server-2022)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-
----
-
-### ⚡ Fun Facts
-- I’m passionate about crafting fast and user-friendly web applications.
 
 ---
 
