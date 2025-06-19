@@ -4,6 +4,7 @@ I’m a passionate full-stack developer with a keen interest in building user-fr
 
 - 💻 I’m currently working on **my Portfolio**.
 - 🌱 I’m currently learning **Dart and Flutter**.
+- 🐧 I’ve been actively using **Linux** as my daily driver for the past 2 months and continue to explore its ecosystem.
 - 📄 My resume is available [here](https://drive.google.com/file/d/1KIxilujQmrA7lbYsbx2E80yWVp0aLDMU/view?usp=sharing).
 
 ---
