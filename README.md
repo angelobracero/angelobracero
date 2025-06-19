@@ -1,6 +1,6 @@
 # Hello, I'm Angelo L. Bracero 👋
 
-I’m a passionate full-stack developer with a keen interest in building user-friendly, scalable web applications. I’m currently working on my personal portfolio and expanding my knowledge on Dart and Flutter.
+I’m a passionate full-stack developer with a keen interest in building user-friendly, scalable web applications. I’m currently working on my personal portfolio and expanding my knowledge of Dart and Flutter.
 
 - 💻 I’m currently working on **my Portfolio**.
 - 🌱 I’m currently learning **Dart and Flutter**.
